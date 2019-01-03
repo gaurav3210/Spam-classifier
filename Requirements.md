@@ -7,4 +7,4 @@ nltk
 pandas
 matplotlib
 numpy
-and other tools 
+and little bit knowledge of MachineLearning
