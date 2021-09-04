@@ -10,7 +10,6 @@ Spam classifier is a model which helps in distinguish between spam and non-spam 
 <img src="Images/plot1.png">
 <img src="Images/plot2.png">
 <img src="Images/plot3.png">
-<img src="Images/plot4.png">
 <img src="Images/plot5.png">
 <img src="Images/plot6.png">
 <img src="Images/plot7.png">
